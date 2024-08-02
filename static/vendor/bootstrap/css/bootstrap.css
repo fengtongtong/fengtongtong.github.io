@@ -6075,7 +6075,7 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #f0f9e8 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -6085,7 +6085,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-color: #ccebc5 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -6095,7 +6095,7 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #a8ddb5 !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
